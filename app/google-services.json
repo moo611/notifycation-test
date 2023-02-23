@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1079511385792",
+    "project_id": "notification-test-d5df8",
+    "storage_bucket": "notification-test-d5df8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079511385792:android:dae48ba14a7e1b0d24cf25",
+        "android_client_info": {
+          "package_name": "com.igtools.instagram.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079511385792-uld319pakvanavsnc3d1g7465bj409la.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1x2XYNnrB5cFCjNZIBp7SbSQiXsF0C-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079511385792-uld319pakvanavsnc3d1g7465bj409la.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
